@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixCalculator", "MatrixCalculator.csproj", "{C7E78AA8-0E5B-408D-B1B3-22A977928D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E78AA8-0E5B-408D-B1B3-22A977928D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E78AA8-0E5B-408D-B1B3-22A977928D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E78AA8-0E5B-408D-B1B3-22A977928D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E78AA8-0E5B-408D-B1B3-22A977928D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5EB1E4-1620-44B5-8886-950042F471B5}
+	EndGlobalSection
+EndGlobal
